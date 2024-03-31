@@ -7,4 +7,8 @@ Responsive Layout: Built with Bootstrap, the page adapts seamlessly to different
 Hero Section: The hero section welcomes visitors with a captivating title and introductory text, setting the tone for their floral journey.
 Navigation Menu: A user-friendly navigation menu directs visitors to different sections of the page, including product listings, about us, and contact information.
 Reviews and Comments Section: Engage with your customers by showcasing reviews and comments from satisfied clients. Share heartwarming stories and testimonials.
-Footer: The footer provides essential links, social media icons, and copyright information.
+Footer: The footer provides essential information.
+
+
+Preview
+https://drive.google.com/file/d/1JocG8xc_nvQc00r-agVAonZs66caM2Q8/view?usp=drive_link
